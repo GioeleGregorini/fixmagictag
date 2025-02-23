@@ -7,6 +7,8 @@
 - **Fortuna**  
 
 ## Istruzioni  
+È inclusa anche una guida in PDF con foto. Puoi trovarla [qui](./FixMagicTagGuide.pdf).  
+
 
 ### 1. Preparazione su Linux  
 1. Avviare Linux e scaricare **MFOC**:  
